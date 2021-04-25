@@ -9,3 +9,6 @@ O JS é responsável pela inserção do HTML.
 
 Essa é a função responsável:
 ![image](https://user-images.githubusercontent.com/69097449/115975098-3e7c0980-a538-11eb-87de-47d1a158e421.png)
+
+um screenshot do projeto:
+![image](https://user-images.githubusercontent.com/69097449/115978019-31b8df00-a553-11eb-9a2e-a3d7a40642d8.png)
